@@ -1,0 +1,1 @@
+# Fungsi struct nama class
